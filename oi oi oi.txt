@@ -1,2 +1,1 @@
 print('Я @ ТЫ @ Я @ ТЫ @')
-print('oi oi oi')
